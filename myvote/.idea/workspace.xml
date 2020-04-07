@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30327b25-0d53-48ab-b11e-425d664f5604" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/polls/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -58,7 +57,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="myvote.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -90,6 +88,8 @@
       <workItem from="1585395521194" duration="5250000" />
       <workItem from="1585571732204" duration="1881000" />
       <workItem from="1585975192680" duration="8401000" />
+      <workItem from="1586260488122" duration="2301000" />
+      <workItem from="1586262813877" duration="636000" />
     </task>
     <task id="LOCAL-00001" summary="2020.3.28新项目myvote">
       <created>1585401971157</created>
